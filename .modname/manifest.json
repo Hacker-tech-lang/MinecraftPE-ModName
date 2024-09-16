@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "A custom Minecraft PE mod",
+    "name": "ModName Command List",
+    "uuid": "8c99e5fc-5d2d-4c9e-b52f-024e5a3c5c7a",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "Gameplay changes for ModName",
+      "type": "data",
+      "uuid": "cd7dd91e-f0ff-4f3c-8d8f-d660b4d2458b",
+      "version": [1, 0, 0]
+    }
+  ]
+}
